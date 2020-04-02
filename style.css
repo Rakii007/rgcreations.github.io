@@ -1,0 +1,48 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+
+body
+{
+    background-image:url(images/hr.jpg);
+    background-size: cover;
+    background-position: center;
+    height:100%;
+}
+h1{
+    font-size:60px;
+    padding-left:18%;
+    padding-top: 3%;
+    color:white;
+}
+h2{
+     font-size:50px;
+  padding-left:30%;
+    padding-top: 3%;
+    color:white;
+}
+
+button{
+    margin-left: 46%;
+    font-size: 35px;
+    padding-top: 5px;
+    padding-right:15px;
+    padding-bottom: 5px;
+    padding-left: 25px;
+    background-color:aliceblue;
+    color:black;
+    border-style: inherit;
+    border-radius:30px;
+    margin-top: 3%;
+}
+button:hover{
+    background-color:black;
+    color:white;
+    transition: 0.5;
+}
+.mn{
+    margin-right:30%;
+    margin-top:-23%;
+}

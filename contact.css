@@ -1,0 +1,38 @@
+*{
+    margin:0%;
+    padding:0%;
+}
+
+h1{
+    text-align: center;
+    font-size:40px;
+    font-family: sans-serif;
+    color: black;
+    background-color: gray;
+    padding:20px;
+    margin-top:0%;
+    padding-bottom:20%;
+}
+h2{
+    color:white;
+    margin-top: -12%;
+    font-size: 45px;
+    font-family: sans-serif;
+    text-align: center;
+}
+p{
+     color:white;
+    margin-top: 2%;
+    font-size: 20px;
+    font-family: sans-serif;
+    text-align: center;
+    }
+
+h3{
+    font-size: 25px;
+    font-family: sans-serif;
+    text-align:center;
+    margin-top: 4%;
+    padding-top:-4%;
+}
+

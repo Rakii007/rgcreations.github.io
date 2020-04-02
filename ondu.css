@@ -1,0 +1,36 @@
+*{
+    margin:0%;
+    padding:0%;
+    background-color: black;
+}
+
+.girl img{
+    height: 400px;
+    margin-left: 20%;
+}
+h1{
+    color: white;
+    font-size: 35px;
+    text-align: center;
+}
+.para{
+    color:white;
+    font-size: 20px;
+    padding-top: 2%;
+    padding-left:2%;
+    padding-right: 2%;
+}
+.girl2{
+    height: 400px;
+    margin-left: 29%;
+    padding-top: 2%;
+    margin-bottom: -5%;
+}
+h2{
+    text-align:center;
+}
+
+.ad{
+    margin-left: 40%;
+    background:repeat;
+}

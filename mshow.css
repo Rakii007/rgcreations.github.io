@@ -1,0 +1,38 @@
+*{
+    margin:0%;
+    padding:0%;
+background-color: black;
+}
+.mss{
+    height: 400px;
+    margin-left:30%;
+}
+h1{
+    color: white;
+    margin-top:-3%;
+    margin-left: 37%;
+}
+.para{
+    color:white;
+    font-size:20px;
+     padding-top: 2%;
+    padding-left:2%;
+}
+.mss2 img{
+     height: 300px;
+    width: 500px;
+    margin-left:35%;
+    margin-top: 3%;
+}
+.mss3 img{
+     height: 500px;
+    width: 700px;
+    margin-left:25%;
+}
+h2{
+    text-align:center;
+}
+.ad{
+    margin-left: 37%;
+    background:repeat;
+}
